@@ -19,7 +19,7 @@ python-dateutil==2.6.1
 pytz==2017.2
 pywin32==220
 requests==2.18.4
-rsa==3.4.2
+rsa==4.1
 six==1.11.0
 Unidecode==0.4.21
 uritemplate==3.0.0
